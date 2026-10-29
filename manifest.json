@@ -9,8 +9,8 @@
     },
     {
       "path": "README.md",
-      "size": 7642,
-      "sha256": "1cd2cc864d97a85ea4b504f9a0e7915bbbb0fae9b72cac9aba490f177388cbc8"
+      "size": 7719,
+      "sha256": "1a4c96e1e5fbf5bb7e42921066beba588a55450db017effb6be67e83b68f148f"
     },
     {
       "path": "animations.json",
@@ -671,6 +671,11 @@
       "path": "animations/waving/waving.gif",
       "size": 146852,
       "sha256": "7989731cf58dd697fca96b2dc83eaf9e4c96ba44c45614db619a0c8e86093037"
+    },
+    {
+      "path": "assets/all-nine.gif",
+      "size": 5877004,
+      "sha256": "ecb461a0d794cfdbff31b83a17a9a2c0ba06bfdddbafea7a295db80f9d08d040"
     },
     {
       "path": "build-dot.py",
