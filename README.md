@@ -1,18 +1,20 @@
 # Vanilla Dot
 
-![Все девять анимаций Ваниллы](assets/all-nine.gif)
+![All nine Vanilla animations](assets/all-nine.gif)
 
-Неофициальный фанатский аватар Ваниллы из **NEKOPARA** для Codex.
+English | [Русский](README.ru.md)
 
-## Установка
+An unofficial fan-made Vanilla avatar from **NEKOPARA** for Codex.
 
-[Установить Vanilla в Codex](codex://pets/install?name=Vanilla&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FKarikatun%2Fvanilla-dot%2Fmain%2Fdist%2Fvanilla-dot-v1.png&spriteVersionNumber=1)
+## Installation
 
-1. Откройте ссылку и проверьте превью в Codex.
-2. Нажмите **Install**, затем **Use this pet**.
+[Install Vanilla in Codex](codex://pets/install?name=Vanilla&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FKarikatun%2Fvanilla-dot%2Fmain%2Fdist%2Fvanilla-dot-v1.png&spriteVersionNumber=1)
 
-Codex задаёт свой ритм анимаций и использует пять кадров прыжка; в GIF-превью их восемь.
+1. Open the link and check the preview in Codex.
+2. Click **Install**, then **Use this pet**.
 
-[Галерея анимаций](index.html) · [Файлы и пересборка](docs/build.md)
+Codex sets its own animation timing and uses five jump frames; the GIF preview shows eight.
 
-Ванилла и NEKOPARA принадлежат своим правообладателям. Это фанатский проект, не связанный с ними; публикация не предоставляет лицензии на персонажа или сторонние изображения. [Официальная страница Ваниллы](https://nekopara.com/en/character/vanilla.html).
+[Animation gallery](index.html) · [Files and rebuilding](docs/build.md)
+
+Vanilla and NEKOPARA belong to their respective rights holders. This fan project is unaffiliated with them; publication does not grant a license to the character or third-party images. [Official Vanilla page](https://nekopara.com/en/character/vanilla.html).

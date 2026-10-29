@@ -9,8 +9,13 @@
     },
     {
       "path": "README.md",
-      "size": 1247,
-      "sha256": "972167276f5edbedff23fbebe3a2a905491da396a6139e4cea8be36b272cb10c"
+      "size": 910,
+      "sha256": "ba8c97e08a7ffa477c2137009a21bed2f94444869bb2108af81fb898610af58c"
+    },
+    {
+      "path": "README.ru.md",
+      "size": 1286,
+      "sha256": "f1e27d7d511fff39cf3069fc816a658e3c44c3f531741385068923e7713d3d47"
     },
     {
       "path": "animations.json",
