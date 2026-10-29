@@ -9,8 +9,8 @@
     },
     {
       "path": "README.md",
-      "size": 7719,
-      "sha256": "1a4c96e1e5fbf5bb7e42921066beba588a55450db017effb6be67e83b68f148f"
+      "size": 1247,
+      "sha256": "972167276f5edbedff23fbebe3a2a905491da396a6139e4cea8be36b272cb10c"
     },
     {
       "path": "animations.json",
@@ -691,6 +691,11 @@
       "path": "dist/vanilla-dot-v1.png",
       "size": 2200437,
       "sha256": "f56d7132f93e661ef7d3e4f69030fc0cff5d38bd95a66c74de7296263dda2cdf"
+    },
+    {
+      "path": "docs/build.md",
+      "size": 3311,
+      "sha256": "37defb7b105eb13e04f09ebe0bd39c3e66a586564687e3c8dcaaf93c2e62c980"
     },
     {
       "path": "index.html",
