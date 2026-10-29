@@ -9,8 +9,13 @@
     },
     {
       "path": "README.md",
-      "size": 5222,
-      "sha256": "5378f94d704a873f0a9adba834a6e5e7e16c451adfef5bbe9ca07c48fc11a53e"
+      "size": 7642,
+      "sha256": "1cd2cc864d97a85ea4b504f9a0e7915bbbb0fae9b72cac9aba490f177388cbc8"
+    },
+    {
+      "path": "animations.json",
+      "size": 4756,
+      "sha256": "8530de1f224dd572e6be79b484e057ba9581fe1bec18b9e19e151047a801adc3"
     },
     {
       "path": "animations/failed/failed.gif",
@@ -353,81 +358,6 @@
       "sha256": "aa67f3f9f8523908b6f216c597fd83aca2d7bbe4bcad237bb8254aacd0fa9406"
     },
     {
-      "path": "animations/running/frame-0.png",
-      "size": 40641,
-      "sha256": "8c90b825d16f184c1de2794570961e939de322112b11b5fd96e82f52e8269b28"
-    },
-    {
-      "path": "animations/running/frame-1.png",
-      "size": 41955,
-      "sha256": "eff1b2538fd74b21ab16410ba263c02a43642ed0ce77f25c664fc396abca3bab"
-    },
-    {
-      "path": "animations/running/frame-2.png",
-      "size": 41069,
-      "sha256": "f7a0721e5cdb922e635f3e9072afb2f6b89a040851e69dce0fe08d136ab0582f"
-    },
-    {
-      "path": "animations/running/frame-3.png",
-      "size": 40948,
-      "sha256": "5657e8148074a2fe5830b92c97305a5d3ddefc37f05a2b79096e406c401316ad"
-    },
-    {
-      "path": "animations/running/frame-4.png",
-      "size": 41893,
-      "sha256": "70be34c8bb4e52d7e71e52b14952d5a618b56f9fc0838e3e44a7ffce4bcbee7f"
-    },
-    {
-      "path": "animations/running/frame-5.png",
-      "size": 41288,
-      "sha256": "94a35da3a3c34ecb1fcfbcc62ceca650a318935d1d200bdc7708c2c27e42f13d"
-    },
-    {
-      "path": "animations/running/keyframes.png",
-      "size": 243368,
-      "sha256": "9bee09cfe5e98498742946c4fc2d79e0b1570ede8a8d5a4197a4351589f56ef0"
-    },
-    {
-      "path": "animations/running/preview-0.png",
-      "size": 126424,
-      "sha256": "f473ef9c5a34fd99dd1684c2b4bd6ba0c2fec66004793ff41f1e7411af74cb3b"
-    },
-    {
-      "path": "animations/running/preview-1.png",
-      "size": 129058,
-      "sha256": "f673a243081f21941dd99a92ff9e19a9902638ca8b7b52cdb8a17623c88d9700"
-    },
-    {
-      "path": "animations/running/preview-2.png",
-      "size": 127683,
-      "sha256": "40e8eef98e06bafae890bed9ab5c3d4f0ef7d98e635b5e38a72f3dbd23b70f83"
-    },
-    {
-      "path": "animations/running/preview-3.png",
-      "size": 126286,
-      "sha256": "b0cc41d382aa2b6ab6cfea4cf67f9a0fd23db69c30ab3d719797df392932e1e2"
-    },
-    {
-      "path": "animations/running/preview-4.png",
-      "size": 129283,
-      "sha256": "1d33cef6d0ac8da5733db542b1ea8b6963d03ac131e5507779195ed8eba7e774"
-    },
-    {
-      "path": "animations/running/preview-5.png",
-      "size": 127457,
-      "sha256": "aabc97c65db855cb97581fdaa03446b0403124d6e532892bd446fc19614280ee"
-    },
-    {
-      "path": "animations/running/running.gif",
-      "size": 250524,
-      "sha256": "798a621699113657a488f4a706c66bea8fb12644837c1a44f767ab38aa5d6ef8"
-    },
-    {
-      "path": "animations/running/strip.png",
-      "size": 241572,
-      "sha256": "92afbce7bf6326b3130760eb33a61c6be6178926ff699767f028fec3b746881f"
-    },
-    {
       "path": "animations/running-left/frame-0.png",
       "size": 57127,
       "sha256": "e9c06d0c43613d1b2ff32d83c7fea2839cc97294d2afc55fce9a190af90082aa"
@@ -536,6 +466,81 @@
       "path": "animations/running-right/strip.png",
       "size": 447002,
       "sha256": "37b24f5e4f21180d68f6e7cd7bc0aca64ee67485291d6b11f806e37686aae0c5"
+    },
+    {
+      "path": "animations/running/frame-0.png",
+      "size": 40641,
+      "sha256": "8c90b825d16f184c1de2794570961e939de322112b11b5fd96e82f52e8269b28"
+    },
+    {
+      "path": "animations/running/frame-1.png",
+      "size": 41955,
+      "sha256": "eff1b2538fd74b21ab16410ba263c02a43642ed0ce77f25c664fc396abca3bab"
+    },
+    {
+      "path": "animations/running/frame-2.png",
+      "size": 41069,
+      "sha256": "f7a0721e5cdb922e635f3e9072afb2f6b89a040851e69dce0fe08d136ab0582f"
+    },
+    {
+      "path": "animations/running/frame-3.png",
+      "size": 40948,
+      "sha256": "5657e8148074a2fe5830b92c97305a5d3ddefc37f05a2b79096e406c401316ad"
+    },
+    {
+      "path": "animations/running/frame-4.png",
+      "size": 41893,
+      "sha256": "70be34c8bb4e52d7e71e52b14952d5a618b56f9fc0838e3e44a7ffce4bcbee7f"
+    },
+    {
+      "path": "animations/running/frame-5.png",
+      "size": 41288,
+      "sha256": "94a35da3a3c34ecb1fcfbcc62ceca650a318935d1d200bdc7708c2c27e42f13d"
+    },
+    {
+      "path": "animations/running/keyframes.png",
+      "size": 243368,
+      "sha256": "9bee09cfe5e98498742946c4fc2d79e0b1570ede8a8d5a4197a4351589f56ef0"
+    },
+    {
+      "path": "animations/running/preview-0.png",
+      "size": 126424,
+      "sha256": "f473ef9c5a34fd99dd1684c2b4bd6ba0c2fec66004793ff41f1e7411af74cb3b"
+    },
+    {
+      "path": "animations/running/preview-1.png",
+      "size": 129058,
+      "sha256": "f673a243081f21941dd99a92ff9e19a9902638ca8b7b52cdb8a17623c88d9700"
+    },
+    {
+      "path": "animations/running/preview-2.png",
+      "size": 127683,
+      "sha256": "40e8eef98e06bafae890bed9ab5c3d4f0ef7d98e635b5e38a72f3dbd23b70f83"
+    },
+    {
+      "path": "animations/running/preview-3.png",
+      "size": 126286,
+      "sha256": "b0cc41d382aa2b6ab6cfea4cf67f9a0fd23db69c30ab3d719797df392932e1e2"
+    },
+    {
+      "path": "animations/running/preview-4.png",
+      "size": 129283,
+      "sha256": "1d33cef6d0ac8da5733db542b1ea8b6963d03ac131e5507779195ed8eba7e774"
+    },
+    {
+      "path": "animations/running/preview-5.png",
+      "size": 127457,
+      "sha256": "aabc97c65db855cb97581fdaa03446b0403124d6e532892bd446fc19614280ee"
+    },
+    {
+      "path": "animations/running/running.gif",
+      "size": 250524,
+      "sha256": "798a621699113657a488f4a706c66bea8fb12644837c1a44f767ab38aa5d6ef8"
+    },
+    {
+      "path": "animations/running/strip.png",
+      "size": 241572,
+      "sha256": "92afbce7bf6326b3130760eb33a61c6be6178926ff699767f028fec3b746881f"
     },
     {
       "path": "animations/waiting/frame-0.png",
@@ -668,9 +673,19 @@
       "sha256": "7989731cf58dd697fca96b2dc83eaf9e4c96ba44c45614db619a0c8e86093037"
     },
     {
-      "path": "animations.json",
-      "size": 4756,
-      "sha256": "8530de1f224dd572e6be79b484e057ba9581fe1bec18b9e19e151047a801adc3"
+      "path": "build-dot.py",
+      "size": 4445,
+      "sha256": "c9ee0720efb7f32e3053dcaa61d815abe94e616127332d3e75149d724f379970"
+    },
+    {
+      "path": "dist/manifest.json",
+      "size": 8625,
+      "sha256": "ae66f19b10af2e323a72abe7b97866fed282b8877975e9dac1593921ba3a5ad6"
+    },
+    {
+      "path": "dist/vanilla-dot-v1.png",
+      "size": 2200437,
+      "sha256": "f56d7132f93e661ef7d3e4f69030fc0cff5d38bd95a66c74de7296263dda2cdf"
     },
     {
       "path": "index.html",

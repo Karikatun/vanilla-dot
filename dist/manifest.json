@@ -1,0 +1,354 @@
+{
+  "spriteVersionNumber": 1,
+  "atlas": {
+    "path": "vanilla-dot-v1.png",
+    "width": 1536,
+    "height": 1872,
+    "columns": 8,
+    "cell": [
+      192,
+      208
+    ],
+    "sha256": "f56d7132f93e661ef7d3e4f69030fc0cff5d38bd95a66c74de7296263dda2cdf",
+    "bytes": 2200437
+  },
+  "rows": [
+    {
+      "row": 0,
+      "state": "idle",
+      "count": 6,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "row": 1,
+      "state": "running-right",
+      "count": 8,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "row": 2,
+      "state": "running-left",
+      "count": 8,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "row": 3,
+      "state": "waving",
+      "count": 4,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "row": 4,
+      "state": "jumping",
+      "count": 5,
+      "source_indices_zero_based": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "row": 5,
+      "state": "failed",
+      "count": 8,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "row": 6,
+      "state": "waiting",
+      "count": 6,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "row": 7,
+      "state": "running",
+      "count": 6,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "row": 8,
+      "state": "review",
+      "count": 6,
+      "source_indices_zero_based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "path": "animations/failed/frame-0.png",
+      "sha256": "1307921d8b0a190e959a95323654c1009b614344de6a8e076c2d10502ba84dd4"
+    },
+    {
+      "path": "animations/failed/frame-1.png",
+      "sha256": "fd6d6c707d86650dd6ca000d06d75e53e66c80dd65f0f430aa8fb77b412ffad1"
+    },
+    {
+      "path": "animations/failed/frame-2.png",
+      "sha256": "f4bab4f780c272d9585fa3d620df502fd0c12fafbbfbd4512cd3c76ed090a96b"
+    },
+    {
+      "path": "animations/failed/frame-3.png",
+      "sha256": "cde6addb55862f679aee4cbdc41a342243de6ae12bfd51c0877dac72cc5ca151"
+    },
+    {
+      "path": "animations/failed/frame-4.png",
+      "sha256": "1fa26c15362166bc61d3d74ae3878549f4da380567cd3c6504a87f02350b67f7"
+    },
+    {
+      "path": "animations/failed/frame-5.png",
+      "sha256": "0470a5c2feae83d0da914958ee925442b8b423bf98ee69f9f93a8a335838bd0b"
+    },
+    {
+      "path": "animations/failed/frame-6.png",
+      "sha256": "dfb2f67bb75c509de1af317243f5be4c33565e1289ff6fe4e94db346da7df436"
+    },
+    {
+      "path": "animations/failed/frame-7.png",
+      "sha256": "9ade9b3b0d1e874c4a897f1e6b0137b1d1c463d43779f9ae0bb171c02885c666"
+    },
+    {
+      "path": "animations/idle/frame-0.png",
+      "sha256": "33b31cc9ffa81621ca91a4a9ff3d295d5eabd0d7d445084e7788ee830d695b9f"
+    },
+    {
+      "path": "animations/idle/frame-1.png",
+      "sha256": "03c2e9b922b04bf6df6ce66b3f31b84f03b06ab48c9b01995ea0d0d86a202b0e"
+    },
+    {
+      "path": "animations/idle/frame-2.png",
+      "sha256": "552a5ec1add582c9b9a300f2fdebf4ef9f8a0618998c117646e9616b95fa769f"
+    },
+    {
+      "path": "animations/idle/frame-3.png",
+      "sha256": "a9567eb89cbeab4bb1b3dfef289ea0df5e41d934197bf9702686da76e70db62a"
+    },
+    {
+      "path": "animations/idle/frame-4.png",
+      "sha256": "2f73a5643299989dab15ed0ee920b4352b17bed0108d950d0560b364287d81c7"
+    },
+    {
+      "path": "animations/idle/frame-5.png",
+      "sha256": "ff82007565894fd8a3be6c5ba9e2469d59aaf72cdfb72e360d17a8ce6771252c"
+    },
+    {
+      "path": "animations/jumping/frame-1.png",
+      "sha256": "068400519d488bf784bef046aed21a898cd75b229802e66f58bc8e85024ec0ce"
+    },
+    {
+      "path": "animations/jumping/frame-2.png",
+      "sha256": "7292cf8c8b8d7c2b3b3330f11c84a0a05ec75b00ddb84a5e2823385a87fc02a6"
+    },
+    {
+      "path": "animations/jumping/frame-4.png",
+      "sha256": "121218ce9f73548357d99b308046b51bc5a911cf5e08828bb8c2b8d9197b6b00"
+    },
+    {
+      "path": "animations/jumping/frame-5.png",
+      "sha256": "76f5822e2a3826a5a57dc2eaa45c24189d395d3ec6af8a42ce586871409b6951"
+    },
+    {
+      "path": "animations/jumping/frame-6.png",
+      "sha256": "9b56d4b97ee64e502fcb78b36bfbb62f34cc53a230de8d792fccee80b26cd3a5"
+    },
+    {
+      "path": "animations/review/frame-0.png",
+      "sha256": "9c96cb765da7435d22ad9d3555c3a110b2bff4972ce8578e37db3704f0918c32"
+    },
+    {
+      "path": "animations/review/frame-1.png",
+      "sha256": "406f895f62d4553eb7b994c030d2abe3119b156b910f7f3ed7e4aa4fa0b2d2f3"
+    },
+    {
+      "path": "animations/review/frame-2.png",
+      "sha256": "a6f49138e29175a186ec400d7777b07389f17b7f963019c93bad895419f8d39c"
+    },
+    {
+      "path": "animations/review/frame-3.png",
+      "sha256": "04814a6865abd90f22a4f38b6f846a829cb6634da5858f0ce01735633442100f"
+    },
+    {
+      "path": "animations/review/frame-4.png",
+      "sha256": "192ea4f78c9a5ba8e1d244dcee38ad5b693730c845a206d626d82f92f2a62cd8"
+    },
+    {
+      "path": "animations/review/frame-5.png",
+      "sha256": "74865a03969fb119d14469b2d7536ab04e9cca5f0d49dfff6ff90790148ec260"
+    },
+    {
+      "path": "animations/running/frame-0.png",
+      "sha256": "8c90b825d16f184c1de2794570961e939de322112b11b5fd96e82f52e8269b28"
+    },
+    {
+      "path": "animations/running/frame-1.png",
+      "sha256": "eff1b2538fd74b21ab16410ba263c02a43642ed0ce77f25c664fc396abca3bab"
+    },
+    {
+      "path": "animations/running/frame-2.png",
+      "sha256": "f7a0721e5cdb922e635f3e9072afb2f6b89a040851e69dce0fe08d136ab0582f"
+    },
+    {
+      "path": "animations/running/frame-3.png",
+      "sha256": "5657e8148074a2fe5830b92c97305a5d3ddefc37f05a2b79096e406c401316ad"
+    },
+    {
+      "path": "animations/running/frame-4.png",
+      "sha256": "70be34c8bb4e52d7e71e52b14952d5a618b56f9fc0838e3e44a7ffce4bcbee7f"
+    },
+    {
+      "path": "animations/running/frame-5.png",
+      "sha256": "94a35da3a3c34ecb1fcfbcc62ceca650a318935d1d200bdc7708c2c27e42f13d"
+    },
+    {
+      "path": "animations/waiting/frame-0.png",
+      "sha256": "7a35e96cb359b3528ca2b05440902e0e1c5ac854a9f7ffcbec8045febb95ddb3"
+    },
+    {
+      "path": "animations/waiting/frame-1.png",
+      "sha256": "f5158a784e9664fa9be04e9cce2bf949cbe3ebfa80d91bb001f41fe190b71e9a"
+    },
+    {
+      "path": "animations/waiting/frame-2.png",
+      "sha256": "efd42c949caee516390d94e0eec99ada35075fbb33b9d7fe607ed2d47f1d649d"
+    },
+    {
+      "path": "animations/waiting/frame-3.png",
+      "sha256": "39d5fc4a29bd39c5ffe46a89443bd62a7433cae9170dce0e03ecb016b6d92c70"
+    },
+    {
+      "path": "animations/waiting/frame-4.png",
+      "sha256": "b4fc272814f8b6b3d880e03defc8dac32ef6864c701f2b36fec2a310858c0895"
+    },
+    {
+      "path": "animations/waiting/frame-5.png",
+      "sha256": "58cecac9733885d5a0ae47fd4cacf951a25c5c6a8432b77a99768be5f1f8be77"
+    },
+    {
+      "path": "animations/waving/frame-0.png",
+      "sha256": "e6ece09323785c115c69d503faa722aef421bdc4ba4d8fb7da060ef8e8a6400e"
+    },
+    {
+      "path": "animations/waving/frame-1.png",
+      "sha256": "65f5bfab920526849e9670aac1034d60ad853403378b9c91d203629d4e9d1e20"
+    },
+    {
+      "path": "animations/waving/frame-2.png",
+      "sha256": "a2dbcc05df5bdd1a122097a32c4ade16c9c9af65bdcc149b57b30085a7c3ed0b"
+    },
+    {
+      "path": "animations/waving/frame-3.png",
+      "sha256": "b961037e5204413ccc86757066ea5d1e69681a13113621823c737d7cbee08607"
+    },
+    {
+      "path": "sources/running-right.png",
+      "sha256": "e6f824dc02a212a4296b03c7b7f914ffefa78b74583523b9dd6822b891e24fd5"
+    }
+  ],
+  "run_transform": {
+    "crop": [
+      384,
+      512
+    ],
+    "preview_canvas": [
+      288,
+      320
+    ],
+    "scale": 0.58,
+    "eye_anchor": [
+      204,
+      135
+    ],
+    "eyes_x": [
+      299,
+      302,
+      302,
+      312,
+      301,
+      300,
+      307,
+      313
+    ],
+    "eyes_y": [
+      220,
+      220,
+      220,
+      220,
+      218,
+      218,
+      218,
+      218
+    ],
+    "bob": [
+      0,
+      3,
+      0,
+      -4
+    ],
+    "fit_canvas": [
+      192,
+      208
+    ],
+    "left": "mirror of right"
+  },
+  "timing": "Controlled by the installed Codex runtime, not this PNG."
+}
